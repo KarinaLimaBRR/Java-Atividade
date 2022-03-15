@@ -12,7 +12,7 @@ public class ExWhile {
 		
 		while (x != y) {
 			if (x < y) {
-				System.out.println ("Crescente");
+				System.out.println ("Crescenteeeeeeeeeeeeeeeeeee");
 			}
 			else {
 				
